@@ -51,7 +51,7 @@
         </value>
       </entry>
       <entry key="partitionStatements"/>
-      <entry key="password" value="%%Snowflake_Password%%"/>
+      <entry key="password" value="%%Snowflake_Sandbox_Password%%"/>
       <entry key="provisionRule" value="globalRule"/>
       <entry key="resultSetType" value="TYPE_FORWARD_ONLY"/>
       <entry key="sysDescriptions">
@@ -63,7 +63,7 @@
       </entry>
       <entry key="templateApplication" value="JDBC Template"/>
       <entry key="testConnSQL"/>
-      <entry key="url" value="%%Snowflake_DB_URL%%"/>
+      <entry key="url" value="%%Snowflake_Sandbox_DB_URL%%"/>
       <entry key="useExecuteQuery">
         <value>
           <Boolean/>
@@ -99,7 +99,7 @@
           <Boolean/>
         </value>
       </entry>
-      <entry key="user" value="%%Snowflake_User%%"/>
+      <entry key="user" value="%%Snowflake_Sandbox_User%%"/>
     </Map>
   </Attributes>
   <Owner>
